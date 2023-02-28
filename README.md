@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-NehaKumavat-red)](https://www.youtube.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Neha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/neha-kumavat-370166205)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Neha-yellow)](https://stackoverflow.com/users/21187916/neha-kumavat)
 
